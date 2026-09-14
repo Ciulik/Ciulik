@@ -31,12 +31,8 @@
 
 ### 📊 GitHub Analytics
 <div align="center">
-  <a href="https://github.com/Ciulik">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ciulik&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdae&icon_color=38bdae" width="48%" />
-  </a>
-  <a href="https://github.com/Ciulik">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciulik&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdae" width="48%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ciulik&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdae&icon_color=38bdae" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ciulik&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdae" height="165" alt="Top Languages" />
 </div>
 
 ---
