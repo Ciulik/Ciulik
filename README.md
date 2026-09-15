@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Octavian Ciulei! 👋</h1>
-  <h3>Data Science & AI Undergraduate @ Maastricht University | Software Engineer</h3>
+<h1>Hi there, I'm Octavian Ciulei! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="45" height="45" /></h1>  <h3>Data Science & AI Undergraduate @ Maastricht University | Software Engineer</h3>
   <p>I build secure LLM architectures, robust NLP pipelines, and automated backend systems.</p>
 </div>
 
