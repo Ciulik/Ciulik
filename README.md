@@ -7,7 +7,7 @@
     <a href="https://garrulous-build-logic-flow.base44.app/" target="_blank">
       <img alt="Portfolio" src="https://img.shields.io/badge/Website-Personal_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
     </a>
-    <a href="https://contra.com/octavian_ciulei" target="_blank">
+    <a href="[https://contra.com/octavian_ciulei](https://contra.com/octavian_ciulei_mdtjbpj0?referralExperimentNid=DEFAULT_REFERRAL_PROGRAM&referrerUsername=octavian_ciulei_mdtjbpj0)" target="_blank">
       <img alt="Contra" src="https://img.shields.io/badge/Contra-Hire_Me-EF3A5D?style=for-the-badge&logo=contra&logoColor=white" />
     </a>
   </p>
