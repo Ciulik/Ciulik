@@ -9,11 +9,6 @@
 </div>
 
 
-
-
-
-
-
 ### 💻 Tech Stack & Tools
 <div align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
@@ -27,11 +22,19 @@
 </div>
 
 ---
+### 🏆 GitHub Trophies
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ciulik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Ciulik Trophies" />
+  </a>
+</div>
+
+---
 
 ### 📊 GitHub Analytics
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ciulik&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdae&icon_color=38bdae" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Ciulik&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdae" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Ciulik&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdae&hide=c,html,cython" height="165" alt="Top Languages" />
 </div>
 
 ---
