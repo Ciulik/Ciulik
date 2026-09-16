@@ -8,11 +8,11 @@
   <a href="https://contra.com/octavian_ciulei_mdtjbpj0?referralExperimentNid=DEFAULT_REFERRAL_PROGRAM&referrerUsername=octavian_ciulei_mdtjbpj0"><img alt="Contra" src="https://img.shields.io/badge/Contra-Hire_Me-EF3A5D?style=for-the-badge&logo=contra&logoColor=white" /></a>
 </div>
 
----
 
----
 
----
+
+
+
 
 ### 💻 Tech Stack & Tools
 <div align="center">
